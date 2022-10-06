@@ -3,3 +3,5 @@ Various Hands On Studies  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 <hr>
 
 ## Index 📜
+
+### 🔖 [Maven__Using_Maven_as_a_Build_Tool](https://github.com/medipnegiz/Various_hands_on/tree/main/Maven__Using_Maven_as_a_Build_Tool)
