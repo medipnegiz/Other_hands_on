@@ -6,4 +6,4 @@ Various Hands On Studies  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 
 ### 🔖 [Maven__Using_Maven_as_a_Build_Tool](https://github.com/medipnegiz/Various_hands_on/tree/main/Maven__Using_Maven_as_a_Build_Tool)
 
-### 🔖 [Nexus__Creating_Maven_Repositories]
+### 🔖 [Nexus__Creating_Maven_Repositories](https://github.com/medipnegiz/Various_hands_on/tree/main/Nexus__Creating_Maven_Repositories)
