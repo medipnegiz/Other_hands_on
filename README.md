@@ -11,3 +11,5 @@ Various Hands On Studies  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 ### 🔖 [ECR__Elastic_Container_Registry](https://github.com/medipnegiz/Various_hands_on/tree/main/ECR__Elastic_Container_Registry)
 
 ### 🔖 [ECS__Elastic_Container_Service](https://github.com/medipnegiz/Various_hands_on/tree/main/ECS__Elastic_Container_Service)
+
+### 🔖 [Monitoring_K8s_Cluster_with_Prometheus_Grafana]()
