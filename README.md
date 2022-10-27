@@ -15,3 +15,5 @@ Various Hands On Studies  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 ### 🔖 [Monitoring_K8s_Cluster_with_Prometheus_Grafana](https://github.com/medipnegiz/Various_hands_on/tree/main/Monitoring_K8s_Cluster_with_Prometheus_Grafana)
 
 ### 🔖 [Deploying EFK (Elasticsearch, Filebeat, Kibana) Stack into EKS cluster with Helm and application monitoring](https://github.com/medipnegiz/Various_hands_on/tree/main/Deploying%20EFK%20(Elasticsearch%2C%20Filebeat%2C%20Kibana)%20Stack%20into%20EKS%20cluster%20with%20Helm%20and%20application%20monitoring)
+
+### 🔖 [Deploying ELK (Elasticsearh, Logstash, Kibana) Stack as a server in EC2 instance and log monitoring]()
